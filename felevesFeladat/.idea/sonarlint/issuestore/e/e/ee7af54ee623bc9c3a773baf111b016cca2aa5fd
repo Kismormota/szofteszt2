@@ -1,0 +1,21 @@
+
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©äº‰ÿÿÿÿÿ
+k	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¥ï¯ÿÿÿÿÿ
+k	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¥ï¯ÿÿÿÿÿ
+k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¥ï¯ÿÿÿÿÿ
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŠö¾úÿÿÿÿ
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŠö¾úÿÿÿÿ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¥ï¯ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßô‘¼þÿÿÿÿ
+s
+java:S1488""^Immediately return this expression instead of assigning it to the temporary variable "serult".(øõñH
+‘
+java:S1130 "vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(ÔŒ¶¶ûÿÿÿÿ
+A
+java:S1612"",Replace this lambda with a method reference.(øõñH
+o
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(¹·ŠÅ
+D
+java:S54135")Verify that "remove()" is used correctly.(ÏÉ­Æøÿÿÿÿ
+C
+java:S1659D"(Declare "HigherYear" on a separate line.(ÒŠö¾úÿÿÿÿ
